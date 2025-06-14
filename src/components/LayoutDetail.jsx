@@ -1,7 +1,7 @@
 import { useParams, useNavigate } from "react-router-dom";
 import twobed from '../assets/2-bed.jpg';
-import threebed from '../assets/3-bedd.jpg';
-import fourbed from '../assets/4-bedd.jpg';
+import threebed from '../assets/3-bed.jpg';
+import fourbed from '../assets/4-bed.jpg';
 import onebed from '../assets/1-bed.jpg';
 
 const apartmentData = {
