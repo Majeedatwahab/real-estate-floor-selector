@@ -49,5 +49,3 @@ The app allows users to:
 
 - No unit tests or performance optimizations yet.
 
-🔗 Live Demo
-[Live Site URL] –  Netlify
